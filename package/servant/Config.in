@@ -1,0 +1,6 @@
+config BR2_PACKAGE_SERVANT
+	bool "servant"
+	help
+	  Package to receive and measure UDP messages timings
+
+	  http://localhost/servant-1.0.0.tar.gz
